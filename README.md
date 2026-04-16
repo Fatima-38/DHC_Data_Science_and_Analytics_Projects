@@ -10,7 +10,7 @@ This repository contains all five Data Science & Analytics internship tasks for 
 
 ## Tasks
 
-(## Task 1 - Exploring and Visualizing a Simple Dataset)
+## Task 1 - Exploring and Visualizing a Simple Dataset
 **Dataset:** Iris Dataset (via seaborn)  
 **Objective:** Read, summarize, and visualize a classic dataset.  
 **Approach:**
@@ -21,7 +21,7 @@ This repository contains all five Data Science & Analytics internship tasks for 
 
 ---
 
-(## Task 2 - Credit Risk Prediction)
+## Task 2 - Credit Risk Prediction
 **Dataset:** Loan Prediction Dataset (Kaggle structure)  
 **Objective:** Predict whether a loan applicant is likely to default.  
 **Approach:**
@@ -34,7 +34,7 @@ This repository contains all five Data Science & Analytics internship tasks for 
 
 ---
 
-(## Task 3 - Customer Churn Prediction (Bank Customers))
+## Task 3 - Customer Churn Prediction (Bank Customers)
 **Dataset:** Churn Modelling Dataset  
 **Objective:** Identify customers likely to leave the bank.  
 **Approach:**
@@ -47,7 +47,7 @@ This repository contains all five Data Science & Analytics internship tasks for 
 
 ---
 
-(## Task 4 - Predicting Insurance Claim Amounts)
+## Task 4 - Predicting Insurance Claim Amounts
 **Dataset:** Medical Cost Personal Dataset  
 **Objective:** Estimate medical insurance charges using regression.  
 **Approach:**
@@ -59,7 +59,7 @@ This repository contains all five Data Science & Analytics internship tasks for 
 
 ---
 
-(## Task 5 - Personal Loan Acceptance Prediction)
+## Task 5 - Personal Loan Acceptance Prediction
 **Dataset:** Bank Marketing Dataset (UCI Machine Learning Repository)  
 **Objective:** Predict which customers will accept a personal loan offer.  
 **Approach:**
